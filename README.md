@@ -32,7 +32,7 @@
 ### Contacts
 
 <div>
-   <a href="https://www.linkedin.com/in/gustavo-da-silva-paulo-14b358123/" target="_self"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5513982288624?text=Ol%C3%A1%20Gustavo%2C%20tudo%20bem%3F!%20Vi%20seu%20perfil%20no%20Github." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="mailto:gustavo-tj@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/gustavo-da-silva-paulo-14b358123/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/5513982288624?text=Ol%C3%A1%20Gustavo%2C%20tudo%20bem%3F!%20Vi%20seu%20perfil%20no%20Github."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:gustavo-tj@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
