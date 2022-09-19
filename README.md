@@ -3,7 +3,7 @@
 
 - :computer: Today i working in Fundation CPQD like analist of systems
 - :male_detective: Currently i am studying Microservices and all structures that serve this concept
-- :male_detective: Today I working a Docker and Java, but I have knowledge in Angular in the front-end
+- :male_detective: In the moment I working with Docker and Java, but I have knowledge in Angular in the front-end
 - 💬 Contact me int the e-mail: gustavo-tj@hotmail.com
 
 <div>
